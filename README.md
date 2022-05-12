@@ -15,3 +15,12 @@
 ![MongoDB](/icons/mongodb.svg "MongoDB")
 ![nginx](/icons/nginx.svg "nginx")   
 ***
+#### Мой плейлист
+[![Обложка плейлиста](/music.PNG "На сайте Яндекс.Музыка")](https://music.yandex.ru/users/Remix.master/playlists/1004)
+
+#### Кодовые будни
+
+https://user-images.githubusercontent.com/86429443/168081843-c5913db5-c1e9-4758-b156-cae35fb485a7.mp4
+
+
+
