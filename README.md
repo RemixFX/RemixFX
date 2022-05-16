@@ -1,7 +1,10 @@
 ####  Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="19px"> Меня зовут Роман.
-Люблю верстать, придавать стиль, строить анимации, оживлять интерактивом, подключать api.
-<br> Равно как и настраивать сервер, создавать понятный api, подключать базу.  
+Люблю верстать, придавать стиль, строить анимации, оживлять интерактивом, подключать api.   
+Равно как и настраивать сервер, создавать понятный api, подключать базу.   
 
+
+[![email-remix](https://user-images.githubusercontent.com/86429443/168568971-f60055a2-21c4-494a-b419-42a5b60ea3f5.svg)](mailto:remix.master@yandex.ru)
+[![telegram-remix](https://user-images.githubusercontent.com/86429443/168569045-9b1fbc43-982f-4917-bf35-ce719bcd0d40.svg)](https://t.me/remixFX)
 ***
 <h3 align="center">Мой стек:</h3>
 
