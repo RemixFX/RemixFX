@@ -1,4 +1,4 @@
-####  Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="19px"> Меня зовут Роман.
+####  Привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px"> Меня зовут Роман.
 Люблю верстать, придавать стиль, строить анимации, оживлять интерактивом, подключать api.   
 Равно как и настраивать сервер, создавать понятный api, подключать базу.   
 
