@@ -12,9 +12,11 @@
 ![CSS](/icons/css.svg "CSS")
 ![JavaScript](/icons/javascript.svg "JavaScript")
 ![React.js](/icons/react.svg "React.js")
+![TypeScript](/icons/typescript.svg "TypeScript")
 ![Figma](/icons/figma.svg "Figma")
 ![Node.js](/icons/node.svg "Node.js")
 ![Express.js](/icons/express.svg "Express.js")
+![PostgreSQL](/icons/postgresql.svg "PostgreSQL")
 ![MongoDB](/icons/mongodb.svg "MongoDB")
 ![nginx](/icons/nginx.svg "nginx")   
 ***
